@@ -1,5 +1,5 @@
 Documentation for Singapore Resale Flat Prices Prediction
-Application Deployment on Streamlit via Render
+
 Step 1: Set Up GitHub Repository
 
 Add all the required files, including the Streamlit app script (singapore.py), model files, and data files to your GitHub repository.
