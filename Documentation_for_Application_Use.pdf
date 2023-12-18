@@ -31,7 +31,7 @@ Once the web service is set up, users can interact with the Streamlit app to pre
 Select Conditions:
 
 Users can choose conditions such as town, flat type, floor area, and more using the user interface.
-Initiate Prediction:
+Initiate Prediction: 
 
 Clicking on the "Predict" button will trigger the model to make predictions based on the selected conditions.
 View Result:
