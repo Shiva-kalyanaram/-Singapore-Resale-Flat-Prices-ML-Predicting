@@ -8,7 +8,7 @@ Step 2: Create requirements.txt
 
 Create a requirements.txt file in your GitHub repository and list all the necessary packages required to run the Streamlit app. This helps Render understand the dependencies.
 
-Example requirements.txt:
+Example requirements.txt: ![GitHub Repository](Screenshot 2023-12-18 232619.png)
 
 plaintext
 Copy code
@@ -26,6 +26,8 @@ Step 4: User Interaction and Prediction
 
 Once the web service is set up, users can interact with the Streamlit app to predict resale flat prices.
 
+![GitHub Repository](Screenshot 2023-12-18 2328047.png)
+
 Select Conditions:
 
 Users can choose conditions such as town, flat type, floor area, and more using the user interface.
@@ -35,22 +37,7 @@ Clicking on the "Predict" button will trigger the model to make predictions base
 View Result:
 
 Users will see the predicted resale flat price displayed on the app interface.
-Adding Screenshots
-For each step, you can include screenshots to provide visual guidance. Here's how to include screenshots in a GitHub repository:
-
-Take Screenshots:
-
-Capture screenshots of the GitHub repository, the Render setup page, and key steps in the Streamlit app.
-Upload to GitHub:
-
-Create an "Images" folder in your repository and upload the screenshots to this folder.
-Embed in Markdown:
-
-Use Markdown syntax to embed screenshots in your documentation.
-markdown
-Copy code
-![GitHub Repository](Images/github_repo_screenshot.png)
-Note: Adjust the file names and paths according to your actual file structure.
+![GitHub Repository](Screenshot 2023-12-18 232839.png)
 
 Final Note
 The documentation provides a clear guide for users to deploy and interact with the Singapore Resale Flat Prices Prediction app. The addition of screenshots enhances user understanding.
