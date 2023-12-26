@@ -38,4 +38,7 @@ Real Estate
 3. Click the "PREDICT RESALE PRICE" button.
 4. The app will display the predicted resale price based on the provided information.
 
+5. ## Please check  my Machine Model to predict the resale price from this below link:
+6. (https://singapore-resale-flat-prices-predicting-4gi4.onrender.com)
+
 
